@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on Data Analytics projects and improving my Python skills<br><br>👯 I’m looking to collaborate on Data Analytics, Python, and data-driven projects<br><br>🤝 I’m looking for help with advanced Data Analysis techniques and real-world datasets<br><br>🌱 I’m currently learning Data Analytics, Python libraries, and data visualization<br><br>💬 Ask me about Python, data analysis, and my learning journey<br><br>⚡ Fun fact: I enjoy finding stories hidden inside data 📊
+🔭 I’m currently working on Data Analytics projects and improving my Python skills<br><br>👯 I’m looking to collaborate on Data Analytics, Python, and data-driven projects<br><br>🤝 I’m looking for help with advanced Data Analysis techniques and real-world datasets<br><br>🌱 I’m currently learning Data Analytics, Python libraries, and data visualization<br><br>💬 Ask me about Python, data analysis, and my learning journey<br><br>⚡ Fun fact: I can spend hours debugging one line of code and still love coding.
 
 
 ## 🌐 Socials:
